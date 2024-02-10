@@ -1,0 +1,1 @@
+export var button = document.querySelector("#button");

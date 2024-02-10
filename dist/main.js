@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("#button").addEventListener("click",(function(){alert("The button is on click from")}))})();
